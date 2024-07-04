@@ -19,3 +19,5 @@ def escolha_jogo():
 
 if (__nome__ == "__main__"):
     escolha_jogo()
+
+    xvesavz
